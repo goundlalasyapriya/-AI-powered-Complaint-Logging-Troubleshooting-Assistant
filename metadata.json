@@ -1,0 +1,7 @@
+{
+  "name": "AI Complaint Logging & Troubleshooting Assistant",
+  "description": "An AI-powered assistant for employees to log complaints and get troubleshooting steps. It includes separate dashboards for regular employees and technical support staff, featuring an AI chatbot with text, speech, and image inputs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
